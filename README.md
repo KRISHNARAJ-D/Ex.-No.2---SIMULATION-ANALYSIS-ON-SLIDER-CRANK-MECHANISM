@@ -44,8 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Screenshot (74)](https://github.com/ROHITJAIND/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118707073/206a077f-9d72-45e7-88a4-474f860a2868)
 
+![2out](https://github.com/KRISHNARAJ-D/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119559695/8c37ce6d-7e8c-47b9-b114-9cceaafc7425)
 
 ### Name: KRISHNARAJ D
 ### Register Number: 212222230070
